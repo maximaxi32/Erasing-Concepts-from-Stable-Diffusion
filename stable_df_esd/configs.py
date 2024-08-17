@@ -1,0 +1,8 @@
+ENCODER_PATH = 'CompVis/stable-diffusion-v1-4'
+ENCODER_FOLDER = 'vae'
+DECODER_PATH = 'CompVis/stable-diffusion-v1-4'
+DECODER_FOLDER = 'unet'
+TEXT_TOKENIZER_PATH = 'openai/clip-vit-large-patch14'
+TEXT_ENCODER_PATH = 'openai/clip-vit-large-patch14'
+DDIM_SCHEDULER_PATH = 'CompVis/stable-diffusion-v1-4'
+DDIM_SCHEDULER_FOLDER = 'scheduler'

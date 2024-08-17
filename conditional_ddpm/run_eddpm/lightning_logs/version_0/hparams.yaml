@@ -1,0 +1,7 @@
+lbeta: 1.0e-05
+model_chkpt: run_ddpm/last.ckpt
+model_hparams: run_ddpm/lightning_logs/version_0/hparams.yaml
+n_dim: 3
+n_steps: 100
+scheduler_type: linear
+ubeta: 0.0128
